@@ -15,7 +15,7 @@ const GUILD_ID = process.env.GUILD_ID;
 const SPREADSHEET_ID = process.env.SPREADSHEET_ID;
 const CREDENTIALS_PATH = process.env.CREDENTIALS_PATH;
 const SHEET_NAME = process.env.SHEET_NAME;
-const ALLOWED_ROLES = ['Admin','Council','Noble','Lord','Lady','Commander','Master of Coin']; // Replace with actual role names
+const ALLOWED_ROLES = ['Admin','test']; // Replace with actual role names
 
 // Ensure the logs directory do exist
 const logsDir = path.resolve(__dirname, 'logs');
