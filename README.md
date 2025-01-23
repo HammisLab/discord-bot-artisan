@@ -1,6 +1,6 @@
 # Discord Bot with Google Sheets Integration
 
-This project is a Discord bot built using `discord.js` that integrates with Google Sheets for managing and tracking user data. It features command handling, logging, and the ability to update and retrieve data dynamically.
+This project is a Discord bot built using `discord.js` that integrates with Google Sheets for managing and tracking user data mainly focused for the Artisan part of a MMORPG. It features command handling, logging, and the ability to update and retrieve data dynamically.
 
 ---
 
@@ -93,6 +93,10 @@ The spreadsheet should have the following columns in order (left to right):
 3. **Last_Update**: This column is automatically updated by the bot when a member's data is modified or added.
 4. **Consistent Sheet Name**: The name of the sheet (tab) within the Google Sheets file must match the `SHEET_NAME` environment variable in the `.env` file.
 5. **Permissions**: Ensure the bot's Google service account has the necessary permissions to access and modify the spreadsheet.
+
+## Index-drop.js
+
+This version is a dropdown option for the fixed artisan professions and level of qualificacion for the MMORPG Ashes of Creation, which was the focus of this bot
 
 
 
