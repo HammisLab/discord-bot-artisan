@@ -49,8 +49,6 @@ SHEET_NAME=your_google_sheet_name
 
 ## Spreadsheet Structure
 
-## Spreadsheet Structure
-
 The Google Sheets file used by this bot must have a specific structure to ensure proper functionality. Below are the details:
 
 ### Columns in the Spreadsheet
