@@ -96,4 +96,4 @@ The spreadsheet should have the following columns in order (left to right):
 
 ## Index-drop.js
 
-This version is a dropdown option for the fixed artisan professions and level of qualificacion for the MMORPG Ashes of Creation, which was the focus of this bot
+This version is a dropdown option for the fixed artisan professions and level of expertise for the MMORPG Ashes of Creation, which was the focus of this bot
