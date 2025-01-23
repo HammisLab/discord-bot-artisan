@@ -30,10 +30,10 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
-
+   
 2. Install dependencies:
 
    npm install
@@ -78,8 +78,8 @@ The spreadsheet should have the following columns in order (left to right):
 
 | Name       | Profession_1 | Level_1  | Profession_2 | Level_2     | Profession_3 | Level_3     | Profession_4 | Level_4 | Profession_5 | Level_5 | Display_Name | Discord_ID       | Last_Update        |
 |------------|--------------|----------|--------------|-------------|--------------|-------------|--------------|---------|--------------|---------|--------------|------------------|--------------------|
-| John Doe   | Blacksmith   | Master   | Tailor       | Journeyman  | Alchemist    | Apprentice  |              |         |              |         | John#1234    | 1234567890123456 | 2025-01-22 10:00:00|
-| Jane Smith | Miner        | Master   |              |             |              |             |              |         |              |         | Jane#5678    | 2345678901234567 | 2025-01-22 10:30:00|
+| Hammis     | Carpentry    | Master   | Tailoring    | Journeyman  | Alchemist    | Apprentice  |              |         |              |         | Hammis234    | 1234567890123456 | 2025-01-22 10:00:00|
+| Jane Smith | Mining       | Master   |              |             |              |             |              |         |              |         | Jane#5678    | 2345678901234567 | 2025-01-22 10:30:00|
 
 ### Important Notes
 
