@@ -42,12 +42,12 @@ Before you begin, ensure you have met the following requirements:
 
 Create a `.env` file in the root of the project and include the following environment variables:
 
-`DISCORD_TOKEN=your_discord_bot_token`
+`DISCORD_TOKEN=your_discord_bot_token
 CLIENT_ID=your_discord_client_id 
 GUILD_ID=your_discord_guild_id 
 SPREADSHEET_ID=your_google_sheets_id 
 CREDENTIALS_PATH=path_to_your_google_credentials.json 
-SHEET_NAME=your_google_sheet_name
+SHEET_NAME=your_google_sheet_name`
 
 ### Notes:
 - Replace `your_discord_bot_token`, `your_discord_client_id`, etc., with your actual values.
