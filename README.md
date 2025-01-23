@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 
 Create a `.env` file in the root of the project and include the following environment variables:
 
-DISCORD_TOKEN=your_discord_bot_token 
+`DISCORD_TOKEN=your_discord_bot_token`
 CLIENT_ID=your_discord_client_id 
 GUILD_ID=your_discord_guild_id 
 SPREADSHEET_ID=your_google_sheets_id 
