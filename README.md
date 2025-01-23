@@ -50,6 +50,7 @@ SPREADSHEET_ID=your_google_sheets_id
 CREDENTIALS_PATH=path_to_your_google_credentials.json
 SHEET_NAME=your_google_sheet_name
 
+---
 
 ## Spreadsheet Structure
 
