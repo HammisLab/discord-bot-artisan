@@ -86,7 +86,7 @@ The spreadsheet should have the following columns in order (left to right):
 | Hammis     | Carpentry    | Master   | Tailoring    | Journeyman  | Alchemist    | Apprentice  |              |         |              |         | Hammis234    | 1234567890123456 | 2025-01-22 10:00:00|
 | Jane Smith | Mining       | Master   |              |             |              |             |              |         |              |         | Jane#5678    | 2345678901234567 | 2025-01-22 10:30:00|
 
-### Important Notes
+## Important Notes
 
 1. **Column Order**: The order of columns is essential as the bot indexes them based on position.
 2. **Empty Columns**: Columns such as `Profession_2`, `Level_2`, etc., can be left empty if not applicable for a member.
