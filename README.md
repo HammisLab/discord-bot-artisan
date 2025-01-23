@@ -40,12 +40,12 @@ Before you begin, ensure you have met the following requirements:
 
 3. Set up the .env file with the following environment variables:
 
-DISCORD_TOKEN=your_discord_bot_token
-CLIENT_ID=your_discord_client_id
-GUILD_ID=your_discord_guild_id
-SPREADSHEET_ID=your_google_sheets_id
-CREDENTIALS_PATH=path_to_your_google_credentials.json
-SHEET_NAME=your_google_sheet_name
+   DISCORD_TOKEN=your_discord_bot_token
+   CLIENT_ID=your_discord_client_id
+   GUILD_ID=your_discord_guild_id
+   SPREADSHEET_ID=your_google_sheets_id
+   CREDENTIALS_PATH=path_to_your_google_credentials.json
+   SHEET_NAME=your_google_sheet_name
 
 ## Spreadsheet Structure
 
