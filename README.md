@@ -31,8 +31,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/HammisLab/discord-bot-artisan.git
+   cd discord-bot-artisan
 
 2. Install dependencies:
 
